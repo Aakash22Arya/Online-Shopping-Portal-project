@@ -33,7 +33,7 @@ An online shopping portal that allows users to browse, search, and purchase prod
 - **Payment Gateway:** Stripe / Razorpay / PayPal
 - **Hosting:** Render / Vercel / Netlify / AWS
 
----
+----
 
 ## 📁 Folder Structure
 
